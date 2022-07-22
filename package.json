@@ -34,7 +34,7 @@
   "dependencies": {
     "escape-html": "1.0.3",
     "faker": "4.1.0",
-    "file-type": "3.9.0",
+    "file-type": "16.5.4",
     "http-reasons": "0.1.0",
     "iconv-lite": "0.5.0",
     "liquid-json": "0.3.1",
